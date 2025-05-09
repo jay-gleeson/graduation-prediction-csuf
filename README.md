@@ -25,9 +25,9 @@ Most recently, our previous logistic regression models were all swapped out with
 
 ## Presentation 🗨️
 
-Below is a copy of our original presentation for the Project RAISE Summer Research Symposium at Cal State Fullerton. Note that since the presentation of this project, details of the project, models, and data points have changed so it may not reflect current accuracy and model reliability. 
+Below is a copy of our original presentation for the Project RAISE Summer Research Symposium at California State University Fullerton.
 
-![Presentation](https://i.imgur.com/Z1uJKK1.png)
+![Presentation](https://github.com/user-attachments/assets/27b24758-c3ee-4810-8fa4-c8e6a8e6f0cb)
 
 
 ## References
