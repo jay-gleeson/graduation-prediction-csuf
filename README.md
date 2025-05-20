@@ -15,12 +15,29 @@ Various tools were utilized for our project. After initially using [Anaconda](ht
 ## Conclusions 💡
 
 Most recently, our previous logistic regression models were all swapped out with regression models to fit more accurately with our database's high school graduation data. Thus, after developing our models, training, and confirming predictions and accuracy scores, we ended up with very promising low error rates for each of our models. Our neural network ended up having a Mean Absolute Error (MAE) rate of 0.0718, our Random Forest Regressor had an MAE rate of 0.0682, and our Decision Tree Regressor had an MAE rate of 0.0678. R Squared (R2), Root Mean Squared Error (RMSE), and Mean Percent Error (MPE) rates can be viewed within the [.ipynb](https://github.com/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024/blob/main/Graduation_Prediction_Data_Science_CSUF_Summer_2024.ipynb). Thus, given low error rates and sufficient model accuracy, we can firmly state that is there is indeed a predicable correlation between household income factors and high school graduation rates. 
+
 ## Instructions 📝
-1. Clone the repo
-```bash 
-   git clone https://github.com/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024.git
-   cd Graduation-Prediction-Data-Science-CSUF-Summer-2024
-```
+### Method 1: Local reproduction
+   1. Clone the repo
+   ```bash 
+      git clone https://github.com/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024.git
+      cd Graduation-Prediction-Data-Science-CSUF-Summer-2024
+   ```
+   2. Setup virtual environment.
+   ```
+      python -m venv venv
+      venv\Scripts\activate
+      pip install -r requirements.txt
+   ```
+   3. Launch Jupyter Notebook.
+   ```
+      jupyter notebook
+   ```
+
+### Method 2: Google Colab
+1. Open .ipynb in Google Colab.
+   See: [Open in Colab](https://colab.research.google.com/github/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024/blob/main/Graduation_Prediction_Data_Science_CSUF_Summer_2024.ipynb).
+2. Run Jupyter Notebook via Runtime >> Run All or Ctrl+F9.
 
 
 ## Presentation 🗨️
