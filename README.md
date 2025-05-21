@@ -20,8 +20,8 @@ Most recently, our previous logistic regression models were all swapped out with
 ### Method 1: Local reproduction
    1. Clone the repo
    ```bash 
-      git clone https://github.com/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024.git
-      cd Graduation-Prediction-Data-Science-CSUF-Summer-2024
+      git clone https://github.com/jay-gleeson/Data-Science-CSUF-Summer-2024.git
+      cd Data-Science-CSUF-Summer-2024
    ```
    2. Setup virtual environment.
    ```
@@ -36,7 +36,7 @@ Most recently, our previous logistic regression models were all swapped out with
 
 ### Method 2: Google Colab
 1. Open .ipynb in Google Colab.
-   See: [Open in Colab](https://colab.research.google.com/github/jay-gleeson/Graduation-Prediction-Data-Science-CSUF-Summer-2024/blob/main/Graduation_Prediction_Data_Science_CSUF_Summer_2024.ipynb).
+   See: [Open in Colab](https://colab.research.google.com/github/jay-gleeson/Data-Science-CSUF-Summer-2024/blob/main/Graduation_Prediction_Data_Science_CSUF_Summer_2024.ipynb).
 2. Run Jupyter Notebook via Runtime >> Run All or Ctrl+F9.
 
 
