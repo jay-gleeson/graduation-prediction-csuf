@@ -36,7 +36,7 @@ Most recently, our previous logistic regression models were all swapped out with
 
 ### Method 2: Google Colab
 1. Open .ipynb in Google Colab.
-   See: [Open in Colab](https://github.com/jay-gleeson/graduation-prediction-csuf/blob/main/data_science.ipynb).
+   See: [Open in Colab](data_science.ipynb).
 2. Run Jupyter Notebook via Runtime >> Run All or Ctrl+F9.
 
 
