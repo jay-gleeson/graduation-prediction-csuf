@@ -1,3 +1,18 @@
+<div align="center">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/jay-gleeson/graduation-prediction-csuf">
+  <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&amp;logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=fff" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&amp;logoColor=fff" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&amp;logoColor=fff" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&amp;logoColor=fff" alt="Anaconda">
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&amp;logoColor=fff" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&amp;logoColor=fff" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&amp;logoColor=fff" alt="Pandas">
+  <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Plotly-7A76FF?logo=plotly&amp;logoColor=fff" alt="Plotly">
+  <img src="https://img.shields.io/badge/-Seaborn-6BA1AE?logo=seaborn&amp;logoColor=fff" alt="Seaborn">
+  
+</div>
 
 # Graduation Prediction Data Science Project 🎓
 
