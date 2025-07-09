@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/Plotly-7A76FF?logo=plotly&amp;logoColor=fff" alt="Plotly">
   <img src="https://img.shields.io/badge/-Seaborn-6BA1AE?logo=seaborn&amp;logoColor=fff" alt="Seaborn">
-  
 </div>
 
 # Graduation Prediction Data Science Project 🎓
@@ -39,13 +38,13 @@ Most recently, our previous logistic regression models were all swapped out with
       cd graduation-prediction-csuf
    ```
    2. Setup virtual environment.
-   ```
+   ```bash
       python -m venv venv
       venv\Scripts\activate
       pip install -r requirements.txt
    ```
    3. Launch Jupyter Notebook.
-   ```
+   ```bash
       jupyter notebook
    ```
 
@@ -57,7 +56,7 @@ Most recently, our previous logistic regression models were all swapped out with
 
 ## Presentation 🗨️
 
-Below is a copy of our original presentation for the Project RAISE Summer Research Symposium at California State University Fullerton.
+Below is a copy of our original presentation for the Project RAISE Summer Research Symposium 2024 at California State University Fullerton.
 
 ![Presentation](https://github.com/user-attachments/assets/27b24758-c3ee-4810-8fa4-c8e6a8e6f0cb)
 
